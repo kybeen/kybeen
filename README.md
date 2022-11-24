@@ -2,7 +2,7 @@
 
 [![kybeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybeen)](https://github.com/kybeen/github-readme-stats)
 
-https://img.shields.io/twitter/url?label=Tistory&logo=Blogger&logoColor=white&style=flat-square&url=https%3A%2F%2Fkybeen.tistory.com%2F
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
