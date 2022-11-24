@@ -1,10 +1,9 @@
-### Hi there 👋
+### HELLO 👋
 
-<!--
-**kybeen/kybeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![kybeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybeen)](https://github.com/kybeen/github-readme-stats)
 
-Here are some ideas to get you started:
-
+https://img.shields.io/twitter/url?label=Tistory&logo=Blogger&logoColor=white&style=flat-square&url=https%3A%2F%2Fkybeen.tistory.com%2F
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
