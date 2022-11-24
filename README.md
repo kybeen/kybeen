@@ -2,7 +2,7 @@
 - 🎓 Hongik University
 - 💻 Computer Engineering
 - 🌱 Interested in Artificial Intelligence
-- ⏳ Want to be a full stack developer
+- ⏳  Want to be a full stack developer
 
 <!--[![kybeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybeen)](https://github.com/kybeen/github-readme-stats)-->
 
