@@ -1,15 +1,17 @@
 ### HELLO 👋
+- 🎓 Hongik University
+- 💻 Computer Engineering
+- 🌱 I’m interested in Artificial Intelligence
 
-[![kybeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybeen)](https://github.com/kybeen/github-readme-stats)
+<!--[![kybeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybeen)](https://github.com/kybeen/github-readme-stats)-->
 
+Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
+Frameworks
+ <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+ <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
