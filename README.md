@@ -6,12 +6,13 @@
 <!--[![kybeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybeen)](https://github.com/kybeen/github-readme-stats)-->
 
 
-📚 Tech Skills
-- Languages
+
+#### 📚 Tech Skills
+- **Languages**
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
-- Frameworks
+- **Frameworks**
  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
  <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
