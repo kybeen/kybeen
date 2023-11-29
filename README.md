@@ -1,7 +1,8 @@
-### HELLO 👋
+## Youngbin Kim (Rei)
 - 🎓 Hongik University
 - 💻 Computer Engineering
-- 📱 <img src="https://img.shields.io/badge/iOS-000000?style=plastic&&logo=Apple&logoColor=white"/> Developer 
+- 👨‍💻 Learning iOS development in Apple Developer Academy @ POSTECH
+- 📱 Hope to be an <img src="https://img.shields.io/badge/iOS-000000?style=plastic&&logo=Apple&logoColor=white"/> developer
 
  
 [![kybeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybeen)](https://github.com/kybeen/github-readme-stats)
