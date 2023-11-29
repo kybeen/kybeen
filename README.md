@@ -3,9 +3,6 @@
 - 💻 Computer Engineering
 - 👨‍💻 Learning iOS development in Apple Developer Academy @ POSTECH
 - 📱 Hope to be an <img src="https://img.shields.io/badge/iOS-000000?style=plastic&&logo=Apple&logoColor=white"/> developer
-
- 
-[![kybeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybeen)](https://github.com/kybeen/github-readme-stats)
 ---
 
 
@@ -17,6 +14,8 @@
 - <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=Firebase&logoColor=white"/>
 
 ---
+
+[![kybeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybeen)](https://github.com/kybeen/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rei1998)](https://solved.ac/rei1998)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybeen&layout=compact&theme=tokyonight)
