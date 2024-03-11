@@ -1,7 +1,7 @@
 ## Youngbin Kim (Rei) <img src="https://img.shields.io/badge/iOS-000000?style=plastic&&logo=Apple&logoColor=white"/>
 - 🎓 Hongik University
 - 💻 Computer Engineering
-- 👨‍💻 Learning iOS development in Apple Developer Academy @ POSTECH
+- 👨‍💻 Apple Developer Academy @ POSTECH
 ---
 
 
