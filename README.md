@@ -6,7 +6,7 @@
 
 
 ### Education 🎓
-- Hongik Univ. Department of Computer Engineering (2017~2023)
+- Hongik Univ. **Department of Computer Engineering (2017~2023)**
 
 ### Projects 🚀
 - 카뮤 (2023.09 ~ 2023.12)
