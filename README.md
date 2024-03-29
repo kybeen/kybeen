@@ -6,7 +6,9 @@
 
 
 ### Education 🎓
-- Hongik Univ. **Department of Computer Engineering (2017~2023)**
+- Apple Developer Academy @ POSTECH (2023.03 ~ 2023.12)
+- KT AIVLE School - AI 개발자 트랙 (2022.07 ~ 2023.01)
+- 홍익대학교 컴퓨터공학과 (2017~2023)
 
 ### Projects 🚀
 - 카뮤 (2023.09 ~ 2023.12)
