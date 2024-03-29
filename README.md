@@ -29,6 +29,7 @@
 -->
 
 
+---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rei1998)](https://solved.ac/rei1998)
 
