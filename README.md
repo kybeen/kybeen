@@ -5,10 +5,10 @@
 
 
 
-## Education 🎓
+### Education 🎓
 - Hongik Univ. Department of Computer Engineering (2017~2023)
 
-## Projects 🚀
+### Projects 🚀
 - 카뮤 (2023.09 ~ 2023.12)
   - [Github](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-DGC), [AppStore](https://apps.apple.com/us/app/%EC%B9%B4%EB%AE%A4-carmu/id6467243718)
 - Screen Time 101 (2023.08 ~ 2023.09)
