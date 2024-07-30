@@ -10,7 +10,7 @@
 - KT AIVLE School - AI 개발자 트랙 (2022.07 ~ 2023.01)
 - 홍익대학교 컴퓨터공학과 (2017~2023)
 
-### Projects 🚀
+<!-- ### Projects 🚀
 - 카뮤 (2023.09 ~ 2023.12)
   - [Github](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-DGC), [AppStore](https://apps.apple.com/us/app/%EC%B9%B4%EB%AE%A4-carmu/id6467243718)
 - Screen Time 101 (2023.08 ~ 2023.09)
@@ -19,6 +19,8 @@
   - [Github](https://github.com/DeveloperAcademy-POSTECH/MC3-Team9-F4), [AppStore](https://apps.apple.com/kr/app/tering/id6464368312)
 - 머스트슬립 (2023.04 ~ 2023.05)
   - [Github](https://github.com/DeveloperAcademy-POSTECH/MC2-Team18-sunghoyazaza)
+-->
+
 
 <!--
 ### ⚙️🛠️
