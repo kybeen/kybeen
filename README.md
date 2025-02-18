@@ -25,7 +25,7 @@
 <h5>Study Archives</h5>
 <p>
   <a href="https://healthy-degree-cc2.notion.site/public-ReiOS-197b5eb4bc1a80d98c29c93c10ac3c8b?pvs=4" style="text-decoration: none;">
-    <img height=30 src="https://img.shields.io/badge/iOS_공부기록-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img height=30 src="https://img.shields.io/badge/ReiOS-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 
   <a href="https://healthy-degree-cc2.notion.site/169b5eb4bc1a8063ae0ec807b228b10b?v=6913e22982ac4c39b193e87e63eb86b0&pvs=4" style="text-decoration: none;">
